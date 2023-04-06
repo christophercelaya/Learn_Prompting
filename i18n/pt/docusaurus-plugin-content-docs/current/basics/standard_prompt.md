@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Um Prompt "Padrão"
+#   Um Prompt "Padrão"
 
 Nós já vimos alguns *prompts* de diferentes formatos até aqui.
 Seguindo Kojima et al. (@kojima2022large), *prompts* que são constituídos apenas por perguntas serão referidos como *prompts* "padrão". Os *prompts* que são constiuídos apenas de perguntas e estão no formato PR (pergunta e resposta) também serão considerados como *prompts* "padrão". 

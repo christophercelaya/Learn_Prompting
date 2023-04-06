@@ -2,7 +2,7 @@
 sidebar_position: 30
 ---
 
-# 🟢 Compañero de estudio
+#   Compañero de estudio
 
 Una de nuestras formas favoritas de utilizar los LLMs es como herramienta de estudio. En particular, es útil para explicar términos confusos, así como para hacerte preguntas sobre el contenido de los exámenes.
 

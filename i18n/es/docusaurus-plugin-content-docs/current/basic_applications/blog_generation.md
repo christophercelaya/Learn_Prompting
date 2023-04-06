@@ -2,7 +2,7 @@
 sidebar_position: 30
 ---
 
-# 🟢 Blogs
+#   Blogs
 
 ¿Qué pasaría si pudieras escribir una publicación de blog en 5 segundos?
 

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Introdução
+#   Introdução
 
 Este artigo foi pensado para pessoas com pouca ou nenhuma experiência com engenharia de *prompt* e inteligência
 artificial. O público-alvo aqui são todos aqueles que possuem interesse nesse campo de estudo, sejam estudantes ou

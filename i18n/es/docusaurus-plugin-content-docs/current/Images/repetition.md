@@ -1,7 +1,7 @@
 ---
 sidebar_position: 50
 ---
-# 🟢 Repetición
+#   Repetición
 
 Repetir la misma palabra dentro de una consulta, o frases similares, puede hacer que el modelo enfatice esa palabra en la imagen generada(@oppenlaender2022taxonomy). Por ejemplo, [@Phillip Isola](https://twitter.com/phillip_isola/status/1532189632217112577) generó estas cascadas con DALLE:
 

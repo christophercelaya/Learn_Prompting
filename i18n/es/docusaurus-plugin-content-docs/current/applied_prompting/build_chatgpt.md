@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 🟢 ChatGPT a partir de GPT-3
+#   ChatGPT a partir de GPT-3
 
 import Skippy from '@site/docs/assets/skippy_chatbot.png'    
 import SkippyHeader from '@site/docs/assets/skippy_chatbot_header.png'    

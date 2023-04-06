@@ -50,7 +50,7 @@ Se você está dando os primeiros passos em inteligência artificial e engenhari
 
 ### Iconografia
 
-🟢 Muito fácil, não requer programação.
+  Muito fácil, não requer programação.
 
 🟡 Fácil, requer conhecimento elementar de programação, mas não precisa dominar nenhuma área em específico.
 

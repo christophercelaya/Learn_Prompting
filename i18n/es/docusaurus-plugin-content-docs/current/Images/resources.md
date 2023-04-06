@@ -2,7 +2,7 @@
 sidebar_position: 100
 ---
 
-# 🟢 Recursos
+#   Recursos
 
 El campo de la ingeniería de imágenes generadas por IA es muy diverso. Aquí hay una buena lista de recursos que cubren partes de él.
 

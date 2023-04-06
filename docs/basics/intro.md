@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Introduction
+#   Introduction
 
 import Techniques from '../assets/techniques.svg';
 

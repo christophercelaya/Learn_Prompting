@@ -2,7 +2,7 @@
 sidebar_position: 100
 ---
 
-# 🟢 LLM Settings
+#   LLM Settings
 
 
 import Temperature from '../assets/temperature.svg';

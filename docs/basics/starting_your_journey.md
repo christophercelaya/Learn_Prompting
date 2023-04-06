@@ -2,7 +2,7 @@
 sidebar_position: 1000
 ---
 
-# 🟢 Starting Your Journey
+#   Starting Your Journey
 
 
 import Steps from '../assets/steps.svg';

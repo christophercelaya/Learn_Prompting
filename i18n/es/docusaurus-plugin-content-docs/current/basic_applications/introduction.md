@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Introducción
+#   Introducción
 
 Ahora que has aprendido algunas técnicas muy básicas de ingeniería de prompts, es hora de aprender cómo utilizarlas para resolver problemas simples y cotidianos. Esta sección cubre tareas como escribir/resumir correos electrónicos y crear contratos.
 

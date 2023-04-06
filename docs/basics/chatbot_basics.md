@@ -2,7 +2,7 @@
 sidebar_position: 80
 ---
 
-# 🟢 Chatbot Basics
+#   Chatbot Basics
 
 
 import Chatbots from '../assets/chatbot.svg';

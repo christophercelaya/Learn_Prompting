@@ -2,7 +2,7 @@
 sidebar_position: 10
 ---
 
-# 🟢 Escribir un correo electrónico
+#   Escribir un correo electrónico
 
 Escribir correos electrónicos puede ser una tarea que consume mucho tiempo, especialmente cuando necesitas leer primero un correo electrónico que recibiste. Esta sección cubrirá casos de uso que van desde un simple correo electrónico para informarle a tu jefe que estás enfermo hoy, hasta correos electrónicos más complejos para clientes potenciales sin relación previa.
 

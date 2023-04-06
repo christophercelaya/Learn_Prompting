@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# 🟢 Formalización de Prompts
+#   Formalización de Prompts
 
 import FormalPrompt from '@site/docs/assets/formal_prompt.svg';
 

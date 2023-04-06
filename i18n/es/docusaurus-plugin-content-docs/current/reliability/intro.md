@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🟢 Introducción
+#   Introducción
 
 Este capítulo cubre cómo hacer que las completaciones sean más confiables, así como cómo implementar verificaciones para asegurar que las salidas sean confiables.
 

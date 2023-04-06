@@ -2,7 +2,7 @@
 sidebar_position: 50
 ---
 
-# 🟢 Contratos
+#   Contratos
 
 ¿Cansado de leer y escribir contratos largos y aburridos? ¡La IA puede ayudar!
 :::warning

@@ -4,7 +4,7 @@ locale: en-us
 style: chicago
 ---
 
-# 🟢 Combining Techniques
+#   Combining Techniques
 
 import CombinedPrompt from '../assets/combined_prompt.svg';
 

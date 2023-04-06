@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Rol Prompt
+#   Rol Prompt
 
 Otra técnica de enfoque es asignar un rol a la IA. Por ejemplo, tu enfoque podría comenzar con "Eres un médico" o "Eres un abogado" y luego pedirle a la IA que responda algunas preguntas médicas o legales. Aquí hay un ejemplo:
 

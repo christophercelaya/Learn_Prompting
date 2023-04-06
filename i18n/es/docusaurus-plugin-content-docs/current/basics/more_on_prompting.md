@@ -4,7 +4,7 @@ locale: en-us
 style: chicago
 ---
 
-# 🟢 mas sobre Prompting
+#   mas sobre Prompting
 
 Como hemos visto en las páginas anteriores, los prompts pueden tener diferentes formatos y complejidad. Pueden incluir contexto, instrucciones, múltiples ejemplos de preguntas-respuestas, e incluso otros prompts (¿qué!?).
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 🟢 Dando Instrucciones 
+#   Dando Instrucciones 
 
 Uno de los métodos de indicaciones más simples es dar instrucciones. Ya vimos una instrucción simple
 en un apartado anterior (`¿Cuánto es 1.000.000 * 9.000? Asegúrate de poner la cantidad correcta de ceros, aunque sean muchos:`). Sin embargo,

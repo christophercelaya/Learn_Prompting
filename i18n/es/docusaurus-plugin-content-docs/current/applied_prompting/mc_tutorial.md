@@ -3,7 +3,7 @@ sidebar_position: 2
 locale: en-us
 ---
 
-# 🟢 Preguntas Multiple Choice 
+#   Preguntas Multiple Choice 
 ¡Vamos a utilizar GPT para resolver una pregunta de LSAT 1!
 
 El LSAT (siglas de "Law School Admission Test" en ingles) es un examen estandarizado utilizado por las escuelas de derecho en los Estados Unidos para evaluar las habilidades de pensamiento crítico y razonamiento analítico de los estudiantes potenciales.

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 ---
-# 🟢 Potenciadores de calidad
+#   Potenciadores de calidad
 
 Los potenciadores de calidad (@oppenlaender2022taxonomy) son términos agregados a una prompt para mejorar ciertas cualidades de la imagen generada que no están relacionadas con el estilo. Por ejemplo, "increíble", "hermoso" y "buena calidad" son potenciadores de calidad que se pueden utilizar para mejorar la calidad de la imagen generada.
 

@@ -10,19 +10,19 @@ import styles from '../components/HomepageFeatures/styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Towards AI',
+    title: 'Me',
     Svg: require('@site/static/img/towards-ai-logo.png').default,
-    link: "https://towardsai.net",
+    link: "https://chriscelaya.xyz",
   },
   {
-    title: 'DAIR.AI',
+    title: 'Myself',
     Svg: require('@site/static/img/dair.png').default,
-    link: "https://dair.ai/",
+    link: "https://chriscelaya.xyz",
   },
   {
-    title: 'D&M',
+    title: 'I',
     Svg: require('@site/static/img/dm.jpg').default,
-    link: "https://socialedigitalmedia.com/en/",
+    link: "https://chriscelaya.xyz",
   },
 ];
 

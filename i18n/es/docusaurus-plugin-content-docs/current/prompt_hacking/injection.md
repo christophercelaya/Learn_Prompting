@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🟢 Inyección de Prompt
+#   Inyección de Prompt
 
 La inyección de prompt es una técnica utilizada para secuestrar la salida de un modelo de lenguaje (@branch2022evaluating) (@crothers2022machine) (@goodside2022inject) (@simon2022inject).
 

@@ -38,7 +38,7 @@ Si vous êtes novice en matière d'intelligence artificielle (IA) et de prompt e
 
 Les articles sont assortis d'un système d'évaluation basé sur la difficulté du sujet et sur la nécessité ou non de connaissances en programmation :
 
-🟢 Très facile ; aucune connaissance en programmation requise
+  Très facile ; aucune connaissance en programmation requise
 
 🟡 Facile ; des connaissances programmation simple requises, mais aucune expertise dans le domaine
 

@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 🟢 제로샷(zero shot) 사고 사슬 프롬프팅
+#   제로샷(zero shot) 사고 사슬 프롬프팅
 
 
 제로샷 사고 사슬 프롬프팅(제로샷 COT)는 아주 간단한 제로샷 프롬프팅 기술이면서 CoT 프롬프팅(@wei2022chain)의 후속 기술이다. ""**Let's think step

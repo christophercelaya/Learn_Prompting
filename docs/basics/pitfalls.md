@@ -2,7 +2,7 @@
 sidebar_position: 90
 ---
 
-# 🟢 Pitfalls of LLMs
+#   Pitfalls of LLMs
 
 import Pitfalls from '../assets/pitfalls.svg';
 

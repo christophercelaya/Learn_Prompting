@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 🟢 *Prompting*
+#   *Prompting*
 
 No capítulo anterior, nós dicutimos sobre IA e como os humanos podem ensinar IAs a realizar tarefas. O processo de
 instruir uma IA a fazer uma tarefa é chamado de *prompting*(@shin2020autoprompt). Nós enviamos para a IA uma série de

@@ -4,7 +4,7 @@ locale: es-mx
 style: chicago
 ---
 
-# 🟢 Combinando técnicas
+#   Combinando técnicas
 
 import CombinedPrompt from '@site/docs/assets/combined_prompt.svg';
 

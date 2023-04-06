@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Introducción
+#   Introducción
 
 Este artículo está diseñado para personas con poca o ninguna experiencia en PE 
 o incluso IA. El público objetivo aquí es todo aquel que no sea técnico

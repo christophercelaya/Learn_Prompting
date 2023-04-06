@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🟢 Trucos de Detección
+#   Trucos de Detección
 
 Con el desarrollo de detectores de texto generados por IA, ha habido una evolución de métodos para contrarrestarlos. Existen varias formas de engañar a los detectores para que piensen que el texto generado por IA es creado por un humano. Una herramienta como [GPTMinus](https://gptminus1.vercel.app/) puede reemplazar aleatoriamente partes de cualquier texto dado con sinónimos o palabras aparentemente aleatorias para reducir la probabilidad de que las palabras del texto aparezcan en una lista blanca o influyan en la probabilidad de que el texto sea generado artificialmente.
 

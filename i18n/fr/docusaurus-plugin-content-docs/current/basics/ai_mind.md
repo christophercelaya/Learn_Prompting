@@ -1,4 +1,4 @@
-# 🟢 Comprendre la pensée IA
+#   Comprendre la pensée IA
 
 import Brain from '@site/docs/assets/brain.svg';
 

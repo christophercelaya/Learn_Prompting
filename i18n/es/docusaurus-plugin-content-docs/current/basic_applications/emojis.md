@@ -2,7 +2,7 @@
 sidebar_position: 40
 ---
 
-# 🟢 Encontrando Emojis
+#   Encontrando Emojis
 
 🤔 ¿Alguna vez necesitaste el **emoji perfecto** para un tweet o publicación?
 

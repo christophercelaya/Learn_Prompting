@@ -4,7 +4,7 @@ locale: en-us
 style: chicago
 ---
 
-# 🟢 Cadena de pensamiento
+#   Cadena de pensamiento
 
 El Encadenamiento de pensamiento (CoT, por sus siglas en inglés "Chain of Thought") (@wei2022chain) es un método de indicaciones que se desarrolló recientemente y que alienta al LLM a explicar su razonamiento. La imagen a continuación (@wei2022chain) muestra una indicación estándar de "pocos ejemplos" (izquierda) en comparación con una indicación de encadenamiento de pensamiento (derecha).
 

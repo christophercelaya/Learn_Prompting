@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Eliminación de sesgos
+#   Eliminación de sesgos
 
 Esta página cubre algunas técnicas simples para eliminar sesgos en la consigna.
 

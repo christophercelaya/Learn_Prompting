@@ -46,7 +46,7 @@ async function createConfig() {
             // Please change this to your repo.
             // Remove this to remove the "edit this page" links.
             editUrl:
-              'https://github.com/trigaten/promptgineering/tree/v1.2.3',
+              'https://github.com/chriscelaya/promptgineering/tree/v1.2.3',
             remarkPlugins: [
               math,
               (await import("remark-gfm")).default,
@@ -109,12 +109,12 @@ async function createConfig() {
               position: 'right',
             },
             {
-              href: 'https://github.com/trigaten/Learn_Prompting/releases',
+              href: 'https://github.com/chriscelaya/Learn_Prompting/releases',
               label: 'Change Log',
               position: 'right',
             },
             {
-              href: 'https://github.com/trigaten/promptgineering',
+              href: 'https://github.com/chriscelaya/promptgineering',
               label: 'GitHub',
               position: 'right',
             }

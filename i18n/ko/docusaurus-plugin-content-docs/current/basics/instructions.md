@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 🟢 지시 하기
+#   지시 하기
 
 지시하기는 가장 쉬운 프롬프트 방법 중 하나입니다. 우리는 이전 섹션에서 이미 간단한 지시들을 봤습니다(`What is 1,000,000 * 9,000? Make sure to put the right amount of zeros, even if there are many:`). 하지만 현대의 AI들은 더 복잡한 지시도 따를 수 있습니다.
 

@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Structuring Data
+#   Structuring Data
 
 One simple and exciting use case for LLMs is organizing data into tables. Perhaps you have a bunch of news articles or business reports, and you would like all of the important points to be summarized in a table that you can then put into a spreadsheet or database. Chat bots like ChatGPT can help you do this.
 

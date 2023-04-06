@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# 🟢 Few shot prompting
+#   Few shot prompting
 
 import FewShot from '../assets/few_shot.svg';
 

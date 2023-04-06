@@ -4,7 +4,7 @@ locale: pt-br
 style: chicago
 ---
 
-# 🟢 Mais Sobre Prompting
+#   Mais Sobre Prompting
 
 Como foi discutido nas páginas anteriores, *prompts* podem variar em formato e complexidade. Eles podem incluir contexto, instruções, exemplares com perguntas e respostas, além de outros *prompts* (o quê!?).
 

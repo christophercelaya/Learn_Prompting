@@ -1,4 +1,4 @@
-# 🟢 Un prompt “standard”
+#   Un prompt “standard”
 
 Nous avons entendu parler de quelques formats différents de prompts jusqu'à présent. À la suite de Kojima et al.[1](https://learnprompting.org/docs/basics/standard_prompt#fn-1), nous allons nous référer aux prompts qui consistent uniquement en une question en tant que prompt "standard". Nous verrons également les prompts qui consistent uniquement en une question au format Q/A en tant que prompts "standard".
 

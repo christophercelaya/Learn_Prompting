@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 preguntas de discusión
+#   preguntas de discusión
 
 import Auto from '@site/docs/assets/short_content_auto.png';
 

@@ -1,4 +1,4 @@
-# 🟢 Plus sur le prompt
+#   Plus sur le prompt
 
 Comme nous l'avons vu dans les pages précédentes, les prompts peuvent avoir des formats et une complexité variés. Ils peuvent inclure du contexte, des instructions, plusieurs exemples de questions-réponses et même d'autres prompts (quoi!?).
 

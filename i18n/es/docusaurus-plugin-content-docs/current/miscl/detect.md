@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🟢 Detección de Textos IA
+#   Detección de Textos IA
 
 La detección de textos generados por IA es un gran problema para investigadores de seguridad y educadores, entre otros. Herramientas como [GPTZero](https://gptzero.me), [GPT2 detector](https://openai-openai-detector.hf.space) y [detectores bilingües](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) han tenido un éxito significativo, sin embargo, pueden ser [engañados](https://learnprompting.org/docs/miscl/trickery).
 

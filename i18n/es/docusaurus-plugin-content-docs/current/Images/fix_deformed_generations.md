@@ -1,7 +1,7 @@
 ---
 sidebar_position: 90
 ---
-# 🟢 Generaciones Deformes
+#   Generaciones Deformes
 
 Las generaciones deformes, especialmente en partes del cuerpo humano (por ejemplo, manos, pies), son un problema común en muchos modelos. Esto se puede tratar en cierta medida con buenos prompts negativos (@blake2022with). El siguiente ejemplo está adaptado de [esta publicación de Reddit](https://www.reddit.com/r/StableDiffusion/comments/z7salo/with_the_right_prompt_stable_diffusion_20_can_do/).
 

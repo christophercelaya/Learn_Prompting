@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Role Prompting
+#   Role Prompting
 
 import RolePrompt from '../assets/role_prompt.svg';
 

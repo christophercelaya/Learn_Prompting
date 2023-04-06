@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 🟢 Prompting
+#   Prompting
 
 En el capítulo anterior, discutimos la IA y cómo los humanos pueden instruir a las IA para que realicen tareas.
 El proceso de instruir a una IA para que realice una tarea se denomina prompting(@shin2020autoprompt). Le decimos a la IA

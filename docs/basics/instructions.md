@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 🟢 Giving Instructions
+#   Giving Instructions
 
 import InstructionPrompt from '../assets/instruction_prompt.svg';
 

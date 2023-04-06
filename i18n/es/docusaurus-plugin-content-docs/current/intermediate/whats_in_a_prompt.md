@@ -2,7 +2,7 @@
 sidebar_position: 7
 ---
 
-# 🟢 ¿Qué es una Promoción?
+#   ¿Qué es una Promoción?
 
 Hemos pasado por algunas estrategias de promoción diferentes en las páginas anteriores. Esta página ofrecerá algunos consejos generales sobre lo que realmente es importante en una promoción.
 

@@ -47,7 +47,7 @@ Si no, puede ser más útil comenzar con la sección intermedia.
 
 Los artículos están clasificados por dificultad y están etiquetados con lo siguiente:
 
-🟢 Very easy; no requiere programación
+  Very easy; no requiere programación
 
 🟡 Easy; Se requiere programación simple, pero sin mucha experiencia.
 

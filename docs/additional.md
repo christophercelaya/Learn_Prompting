@@ -31,19 +31,3 @@ https://prompts.chat
 ## Facts
 
 GPT-3 is *NOT* deterministic: https://twitter.com/BorisMPower/status/1608522707372740609
-
-## People to follow
-
-I source significant content from these people.
-
-[@chillzaza_](https://mobile.twitter.com/chillzaza_) Prompt engineering, tools, toolbot<br/>
-[@mathemagic1an](https://mobile.twitter.com/mathemagic1an) Various prompting, PE, GPT3 info<br/>
-[@goodside](https://twitter.com/goodside/status/1588247865503010816) Prompt Injection, PE tooling<br/>
-[@hwchase17](https://twitter.com/hwchase17) Core dev of langchain<br/>
-[@omarsar0](https://twitter.com/omarsar0) DAIR AI lead
-
-Also check accounts that I follow: https://twitter.com/learnprompting/following 
-
-## Even More
-
-Check [open issues](https://github.com/trigaten/Learn_Prompting/issues) and [PRs](https://github.com/trigaten/Learn_Prompting/pulls) :)

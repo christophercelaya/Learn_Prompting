@@ -45,7 +45,7 @@ There's no need to read all chapters in order; feel free to explore what interes
 
 We've implemented a rating system for articles based on their level of difficulty and the extent of programming knowledge needed:
 
-🟢 Beginner-friendly; no programming required
+  Beginner-friendly; no programming required
 
 🟡 Easy; basic programming knowledge necessary, but no specialized expertise
 
@@ -86,10 +86,9 @@ Below is a brief overview of each chapter:
 The single most important part of this course is your feedback!
 
 If you have any questions, comments, or suggestions, you can:
-  - Make an [issue on GitHub](https://github.com/trigaten/Learn_Prompting/issues/new/choose)
-  - Email us at [learnprompting@gmail.com](mailto:learnprompting@gmail.com)
-  - Join the [Discord community](https://learnprompting.org/discord)
-  - Follow us on [Twitter](https://twitter.com/learnprompting)
-  - We also have a [Consulting Interest Form](https://learnprompting.org/consulting)
+  - Email [learnprompting@gmail.com](mailto:chris@chriscelaya.xyz)
+  - Discord (soon) [Discord community](https://learnprompting.org/discord)
+  - Twitter [Twitter](https://twitter.com/Im_Mr_Chris)
+  - We also have (soon) [Consulting Interest Form](https://learnprompting.org/consulting)
 
 Even the smallest amount of feedback is very helpful!

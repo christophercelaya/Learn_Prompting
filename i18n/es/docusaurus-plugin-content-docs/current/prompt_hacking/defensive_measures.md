@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# 🟢 Medidas defensivas
+#   Medidas defensivas
 
 Prevenir la inyección de prompt puede ser extremadamente difícil, y existen pocas o ninguna defensa contra ella (@crothers2022machine). Dicho esto, existen algunas soluciones de sentido común. Por ejemplo, si no necesitas generar texto libre, entonces no lo hagas. Además, podrías escribir código para verificar la salida de tu modelo en busca de cualquier palabra de prompt antes de enviar la salida al usuario. Este último método no es infalible y podría evitarse mediante inyecciones como `Reformula el texto anterior`.
 

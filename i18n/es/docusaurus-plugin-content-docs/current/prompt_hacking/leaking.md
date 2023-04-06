@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 🟢 Fuga de Prompt
+#   Fuga de Prompt
 
 
 La fuga de prompt es una forma de inyección de prompt en la que se le pide al modelo que genere su propio prompt.

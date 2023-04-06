@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Un Prompt "Estándar"
+#   Un Prompt "Estándar"
 
 Hasta ahora hemos escuchado sobre varios formatos de prompts.
 Siguiendo a Kojima et al. (@kojima2022large), nos referimos a los prompts que consisten

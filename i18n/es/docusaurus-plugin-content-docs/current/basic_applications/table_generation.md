@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# 🟢 Estructuración de Datos
+#   Estructuración de Datos
 
 Un caso de uso sencillo y emocionante para los LLMs es la organización de datos en tablas. Quizás tenga una gran cantidad de artículos de noticias o informes comerciales, y le gustaría que todos los puntos importantes se resuman en una tabla que luego pueda poner en una hoja de cálculo o base de datos. Los chatbots como ChatGPT pueden ayudarlo a hacer esto.
 

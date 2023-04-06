@@ -1,7 +1,7 @@
 ---
 sidebar_position: 105
 ---
-# 🟢 Understanding AI Minds
+#   Understanding AI Minds
 
 
 import Brain from '../assets/brain.svg';

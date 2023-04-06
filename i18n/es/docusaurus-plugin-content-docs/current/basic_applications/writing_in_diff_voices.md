@@ -2,7 +2,7 @@
 sidebar_position: 60
 ---
 
-# 🟢 Diferentes Estilos de Escritura
+#   Diferentes Estilos de Escritura
 
 Las AIs como [ChatGPT](https://chat.openai.com/chat) son conocidas por escribir ensayos y artículos de blog en un abrir y cerrar de ojos. Pero a menudo, los artículos que producen son genéricos y sin chispa. Necesitas hacer algo extra para darle un poco de espíritu o chispa a las palabras.
 Una de las formas más rápidas de lograrlo es especificar un estilo de escritura o mencionar el nombre de un autor famoso en la indicación.

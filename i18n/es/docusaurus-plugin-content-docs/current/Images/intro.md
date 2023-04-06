@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🟢 Introducción
+#   Introducción
 
 Encontrar el mejor estímulo para crear una imagen perfecta es un desafío particular. La investigación sobre métodos para hacerlo no está tan desarrollada como la de la creación de textos. Esto puede deberse a los desafíos inherentes en la creación de objetos que son fundamentalmente subjetivos y a menudo carecen de métricas de precisión. Sin embargo, no temáis, ya que la comunidad de creación de imágenes con estímulos (@parsons2022dalleprompt) ha hecho grandes descubrimientos sobre cómo estimular varios modelos de imágenes (@rombach2021highresolution) (@ramesh2022hierarchical).
 

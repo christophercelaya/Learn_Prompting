@@ -2,7 +2,7 @@
 sidebar_position: 60
 ---
 
-# 🟢 Términos ponderados
+#   Términos ponderados
 
 Algunos modelos (Stable Diffusion, Midjourney, etc.) permiten ponderar los términos en un prompt. Esto se puede utilizar para enfatizar ciertas palabras o frases en la imagen generada. También se puede utilizar para disminuir la importancia de ciertas palabras o frases en la imagen generada. Consideremos un ejemplo sencillo:
 

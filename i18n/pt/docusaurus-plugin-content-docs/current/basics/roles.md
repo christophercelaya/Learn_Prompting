@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 *Prompting* de Atuação (*Role Prompting*)
+#   *Prompting* de Atuação (*Role Prompting*)
 
 Uma outra técnica de *prompt* é atribuir um papel à uma IA. Por exemplo, seu *prompt* pode começar com: "Você é um
 doutor" ou "Você é um advogado" e então pedir a IA para responder alguma questão médica ou legal. Aqui está um exemplo:

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🟢 Generación de música
+#   Generación de música
 
 Los modelos de generación de música están cada vez más populares, y eventualmente tendrán un gran impacto en la industria musical.
 

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 🟢 Prompting
+#   Prompting
 
 import Prompt from '../assets/prompt.svg';
 

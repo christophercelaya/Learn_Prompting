@@ -2,7 +2,7 @@
 sidebar_position: 200
 ---
 
-# 🟢 Entender la mente de la IA
+#   Entender la mente de la IA
 
 Hola lector, felicidades por haber terminado el capítulo introductorio. Estás dando un gran comienzo en este campo tan emocionante. Hay algunas cosas simples que deberías saber acerca de los diferentes tipos de inteligencia artificial y cómo funcionan antes de continuar leyendo el resto del curso.
 

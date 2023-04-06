@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# 🟢 Dando Instruções
+#   Dando Instruções
 
 Um dos métodos de *prompting* mais simples é apenas dar instruções. Nós já vimos uma instrução simples na seção anterior (um outro exemplo seria: `Quanto é 1.000.000 * 9.000? Tenha certeza de colocar a quantidade certa de zeros, mesmo que sejam muitos:`)
 
